@@ -1,0 +1,20 @@
+What is Angular and how does it differ from AngularJS?
+How do you create a new component in Angular?
+Explain the role of NgModule in Angular.
+What is a directive in Angular and what are the different types of directives?
+How do you create a service in Angular and what is its purpose?
+How do you handle errors in Angular applications?
+How do you perform data binding in Angular?
+What is an Observable in Angular and how is it used?
+What is dependency injection in Angular and how is it implemented?
+Explain the concept of lazy loading in Angular.
+What is the difference between ngOnInit() and ngOnChanges() lifecycle hooks in Angular?
+How do you perform unit testing in Angular?
+What is AOT compilation in Angular and what are its benefits?
+How do you implement routing in an Angular application?
+What is an Angular module and how is it used?
+How do you use HttpClient in Angular to make HTTP requests?
+How do you implement authentication and authorization in an Angular application?
+What is the purpose of the NgModule metadata properties?
+What is the purpose of the Renderer2 service in Angular?
+How do you optimize performance in an Angular application?

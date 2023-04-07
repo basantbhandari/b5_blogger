@@ -1,0 +1,9 @@
+FILE_PATH_QUESTION = "/home/basant/Documents/b5_blogging/question.txt"
+LOGGER_FILE_PATH = "logs/b5_logger"
+OPEN_API_KEY = "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"
+MODEL = "text-davinci-002"
+TEMPERATURE = 0.5
+MAX_TOKENS = 1024
+HASH_NODE_API_KEY = "792d301a-2ee0-47f0-b513-e0283f9a718f"
+HASH_NODE_API_ENDPOINT = 'https://api.hashnode.com/'
+SPECY_MODEL_NAME = "en_core_web_sm"
