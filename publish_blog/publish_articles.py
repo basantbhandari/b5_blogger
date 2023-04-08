@@ -14,7 +14,5 @@ def publish_all_articles(post_objects):
             "content": content
         })
         article = create_article(title, content, tags)
-        logger.info(f'Created article {article["title"]} with ID {article["_id"]}')
-
-
+        logger.info(f'Created article response: {article}')
 
